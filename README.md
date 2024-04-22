@@ -170,4 +170,4 @@ This is only supported when running FediFetcher as cron job, or container. Multi
 
 ## Acknowledgments
 
-The original inspiration of this script, as well as parts of its implementation are taken from [Abhinav Sarkar](https://notes.abhinavsarkar.net/2023/mastodon-context). Thank you Abhinav!
+The original inspiration of this script, as well as parts of its implementation are taken from [Abhinav Sarkar](https://notes.abhinavsarkar.net/2023/mastodon-context). Thank you Abhinav!!
